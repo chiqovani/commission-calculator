@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\CommissionCalculatorTest::testCalculationsMatchExampleOutput":3},"times":{"App\\Tests\\CommissionCalculatorTest::testCalculationsMatchExampleOutput":0.009}}
