@@ -1,0 +1,13 @@
+# Ignore PHP Composer vendor directory
+/vendor/
+
+# Ignore PHP dotenv files
+.env
+
+# Ignore IDE and OS-specific files
+.idea/
+*.log
+*.cache
+
+# Ignore PHPUnit result cache
+.phpunit.result.cache
